@@ -1,0 +1,141 @@
+{
+  "value": 120,
+  "left": {
+    "value": 17,
+    "left": {
+      "value": 34,
+      "left": {
+        "value": 7,
+        "left": {
+          "value": 2
+        },
+        "right": {
+          "value": 4,
+          "left": {
+            "value": 6
+          },
+          "right": {
+            "value": 6
+          }
+        }
+      },
+      "right": {
+        "value": 19,
+        "left": {
+          "value": 4
+        },
+        "right": {
+          "value": 31,
+          "left": {
+            "value": 10,
+            "left": {
+              "value": 7,
+              "left": {
+                "value": 2
+              },
+              "right": {
+                "value": 4,
+                "left": {
+                  "value": 6
+                },
+                "right": {
+                  "value": 6
+                }
+              }
+            },
+            "right": {
+              "value": 4,
+              "left": {
+                "value": 6
+              },
+              "right": {
+                "value": 6
+              }
+            }
+          },
+          "right": {
+            "value": 6
+          }
+        }
+      }
+    },
+    "right": {
+      "value": 7,
+      "left": {
+        "value": 2
+      },
+      "right": {
+        "value": 4,
+        "left": {
+          "value": 6
+        },
+        "right": {
+          "value": 6
+        }
+      }
+    }
+  },
+  "right": {
+    "value": 1,
+    "left": {
+      "value": 37,
+      "left": {
+        "value": 10,
+        "left": {
+          "value": 7,
+          "left": {
+            "value": 2
+          },
+          "right": {
+            "value": 4,
+            "left": {
+              "value": 6
+            },
+            "right": {
+              "value": 6
+            }
+          }
+        },
+        "right": {
+          "value": 4,
+          "left": {
+            "value": 6
+          },
+          "right": {
+            "value": 6
+          }
+        }
+      },
+      "right": {
+        "value": 1,
+        "left": {
+          "value": 7,
+          "left": {
+            "value": 2
+          },
+          "right": {
+            "value": 4,
+            "left": {
+              "value": 6
+            },
+            "right": {
+              "value": 6
+            }
+          }
+        },
+        "right": {
+          "value": 4
+        }
+      }
+    },
+    "right": {
+      "value": 4,
+      "left": {
+        "value": 6
+      },
+      "right": {
+        "value": 6
+      }
+    }
+  }
+}
